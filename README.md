@@ -1,9 +1,14 @@
 # Bank Customer Segmentation – The Sequel
 
-This project continues the work from **[First Project Placeholder – Link to be added]**, where I grouped banking customers into segments based on their behavior patterns and value to the business.  
-This sequel transforms those insights into an interactive dashboard that enables anyone to dynamically explore the segmentation results.  
+This project continues the work from **(https://github.com/abibatoki/Bank-Customer-Segmentation)**, where I grouped banking customers into segments based on their behavior patterns and value to the business. This sequel transforms those insights into an interactive dashboard that enables anyone to dynamically explore the segmentation results.
 
-**🔗 [View Live Demo – ]**
+---
+
+## 🚀 Live Demo
+
+View it here:  
+🔗 **(https://huggingface.co/spaces/abibatoki/indian_bank_customer_segmentation_dashboard)**
+
 
 ---
 
